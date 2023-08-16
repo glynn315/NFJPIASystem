@@ -1,0 +1,28 @@
+*
+{
+    margin: 0;
+    font-family:'monstserrat',sans-serif;
+    overflow: ;
+}
+body
+{
+    overflow: hidden;
+}
+.center
+{
+    display: block;
+    margin: auto;
+}
+.signUp
+{
+    width: 90%;
+    border:2px solid gray;
+    border-radius: 20px;
+    padding: 20px;
+    height: 92vh;
+}
+p
+{
+    font-size: 30px;
+    color:gray;
+}

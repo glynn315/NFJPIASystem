@@ -1,0 +1,57 @@
+*
+{
+    margin: 0;
+    
+    
+}
+body
+{
+    background-color: #ffffff;
+    font-family:'Monstserrat';
+}
+.card-container
+{
+	width: 100%;
+	border-radius: 5px;
+}
+
+.center
+{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.card
+{
+	margin-right: 20px;
+	display: inline-block;
+	width: 30%;
+	color:#fafafa;
+    overflow: hidden;
+    border-radius: 15px;
+	box-shadow: 5px 10px 18px #c4c3c2;
+}
+.card-subtitle
+{
+	font-size: 30px;
+}
+.c-head
+{
+	width: 21%;
+	height: inherit;
+	float: right;
+}
+.cons
+{
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.graph
+{
+    padding: 20px;
+    margin: 0%;
+    border-radius: 15px;
+    box-shadow: 5px 10px 18px #c4c3c2;
+}

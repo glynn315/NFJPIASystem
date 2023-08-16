@@ -1,0 +1,47 @@
+*
+{
+    margin: 0;
+    font-family:'Montserrat';
+    
+}
+body
+{
+    background-color: #093B60;
+    
+}
+.center
+{
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.main-Con
+{
+	background-color: #FEFBED;
+	width:99%; 
+	height:92vh;
+}
+.card
+{
+	width: 25%;
+	margin: 5px;
+	font-family: 'Roboto';
+	background-color: #A30202;
+	color: #FFFFFF;
+}
+.card-img
+{
+	width:70%;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+.font
+{
+	font-family: 'Montserrat';
+	font-size: 20px;
+}
+b
+{
+	font-size: 40px;
+}
